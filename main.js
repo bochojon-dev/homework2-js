@@ -62,7 +62,30 @@
 // let a = +prompt(`a sonini kiriting`);
 // let b = +prompt(`b sonini kiriting`);
 // let c = +prompt(`c sonini kiriting`);
-// console.log()
+// console.log(a == -b || b == -c || a == -c);
+
+// // BOOLEAN13
+// let x = prompt(`3 xonali natural son kiriting`);
+// let c = x % 10;
+// let b = Math.floor((x % 100) / 10);
+// let a = Math.floor(x / 100);
+// console.log(c > b && b > a && a > 0);
+
+// // BOOLEAN14
+// let x = prompt(`3 xonali natural son kiriting`);
+// let c = x % 10;
+// let b = Math.floor((x % 100) / 10);
+// let a = Math.floor(x / 100);
+// console.log((c > b && b > a && a > 0) || (a > b && b > c && c > 0));
+
+// // BOOLEAN15
+// let x = prompt(`3 xonali natural son kiriting`);
+// let c = x % 10;
+// let b = Math.floor((x % 100) / 10);
+// let a = Math.floor(x / 100);
+// console.log(a == c && a > 0);
+
+// -------------/////////////////////////////
 
 // OPERATORS  ///////////////////////
 
