@@ -95,7 +95,7 @@
 // let Y = ((b / 10) ** 3 * (c + d) ** 2) / a ** 2;
 // console.log(`siz kiritgan qiymatlar bo'yicha ifodaning qiymati: ` + Y);
 
-// // NUMBER3
+// // NUMBER5
 // let a = +prompt(`a sonini kiritng`);
 // let b = +prompt(`b sonini kiritng`);
 // let c = +prompt(`c sonini kiritng`);
@@ -103,4 +103,12 @@
 // let Y = ((a / b - 1) / (c / (d - 1))) ** 2;
 // console.log(`siz kiritgan qiymatlar bo'yicha ifodaning qiymati: ` + Y);
 
-console.log(Math.LOG10E);
+// // NUMBER6
+// let a = +prompt(`a sonini kiritng`);
+// let b = +prompt(`b sonini kiritng`);
+// let c = +prompt(`c sonini kiritng`);
+// let d = +prompt(`d sonini kiritng`);
+// let Y = (a + b) / (c + d / (a + c));
+// console.log(`siz kiritgan qiymatlar bo'yicha ifodaning qiymati: ` + Y);
+
+// NUMBER7
