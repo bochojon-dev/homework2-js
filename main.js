@@ -111,4 +111,24 @@
 // let Y = (a + b) / (c + d / (a + c));
 // console.log(`siz kiritgan qiymatlar bo'yicha ifodaning qiymati: ` + Y);
 
-// NUMBER7
+// // NUMBER7
+// let a = +prompt(`a sonini kiritng`);
+// let b = +prompt(`b sonini kiritng`);
+// let c = +prompt(`c sonini kiritng`);
+// let Y = Math.sqrt((a + b + c) ** 2 - (a - b - c) ** 2);
+// console.log(`siz kiritgan qiymatlar bo'yicha ifodaning qiymati: ` + Y);
+
+// // NUMBER8
+// let a = +prompt(`a sonini kiritng`);
+// let b = +prompt(`b sonini kiritng`);
+// let c = +prompt(`c sonini kiritng`);
+// let Y = (a ** 2 + b ** 2 + c ** 2) / (a * b * c);
+// console.log(`siz kiritgan qiymatlar bo'yicha ifodaning qiymati: ` + Y);
+
+// // NUMBER9
+// let a = +prompt(`a sonini kiritng`);
+// let b = +prompt(`b sonini kiritng`);
+// let c = +prompt(`c sonini kiritng`);
+// let d = +prompt(`d sonini kiritng`);
+// let Y = (a * d ** 3) / 3 + (b * c ** 2) / 2;
+// console.log(`siz kiritgan qiymatlar bo'yicha ifodaning qiymati: ` + Y);
